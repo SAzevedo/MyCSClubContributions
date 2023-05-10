@@ -1,0 +1,83 @@
+  .header {
+    border: dotted white;
+  }
+  
+  body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  footer {
+    text-align: center;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #8b784a;
+    -webkit-text-fill-color: white;
+  }
+  
+  h2 {
+    text-align: center;
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+  }
+
+  h3 {
+    text-align: center;
+    color: white;
+  }
+
+  h4 {
+    text-align: center;
+    color:#8b784a;
+  }
+  
+  body {
+    background-color: #001489;
+    /* background-color: #8b784a; */
+  }
+
+  p {
+    color:azure;
+    text-align: justify;
+  }
+
+  a {
+    text-align: center;
+    color: white;
+  }
+
+  .pics {
+    width: 300px;
+    height: 300px;
+  }
+
+  img {
+    float: left;
+  }
+    
+  .box{
+    float: right;
+    border: dotted white;
+  }
+
+  #thanks {
+    text-align: center;
+    color:#8b784a;
+    font-weight: bold;
+  }
+  #calender {
+    justify-content: center;
+    display: flex;
+  }
+  #bulletList {
+    padding-top: 10px;
+    text-align: center;
+    list-style: inside;
+    color: #ffffff;
+    font-size: xx-large;
+  }
+  li {
+    padding: 10px 0px;
+  }
